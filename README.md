@@ -1,4 +1,4 @@
-# 🔠 Morse Code Converter (Python)
+# 🔠 Morse Code Converter
 
 ## 📌 Overview
 The **Morse Code Converter** is a Python-based command-line application that **converts English text into Morse code**.  
