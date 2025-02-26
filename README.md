@@ -46,3 +46,9 @@ This project demonstrates:
 - 🚀 Add Reverse Conversion (Morse Code → Text)
 - 🚀 GUI Version with Tkinter (User-friendly interface)
 - 🚀 File Input/Output Support (Read text files & output Morse code)
+
+---
+
+## 🎯 Author
+- ♨️ Developed by Shailen Sankreacha
+- 📧 Contact: shailen.san@gmail.com
